@@ -1,0 +1,51 @@
+TUPLES :
+1. Create a tuple with integers from 1 to 5.
+2. Access the third element of a tuple.
+3. Find the length of a tuple without using the len() function.
+4. Count the occurrences of an element in a tuple.
+5. Find the index of the first occurrence of an element in a tuple.
+6. Check if an element exists in a tuple.
+7. Convert a tuple to a list.
+8. Convert a list to a tuple.
+9. Unpack the elements of a tuple into variables.
+10. Create a tuple of even numbers from 1 to 10.
+11. Create a tuple of odd numbers from 1 to 10.
+12. Concatenate two tuples.
+13. Repeat a tuple three times.
+14. Check if a tuple is empty.
+15. Create a nested tuple.
+16. Access the first element of a nested tuple.
+17. Create a tuple with a single element.
+18. Compare two tuples.
+19. Delete a tuple.
+20. Slice a tuple.
+21. Find the maximum value in a tuple.
+22. Find the minimum value in a tuple.
+23. Convert a string to a tuple of characters.
+24. Convert a tuple of characters to a string.
+25. Create a tuple from multiple data types.
+26. Check if two tuples are identical.
+27. Sort the elements of a tuple.
+28. Convert a tuple of integers to a tuple of strings.
+29. Convert a tuple of strings to a tuple of integers.
+30. Merge two tuples.
+31. Flatten a nested tuple.
+32. Create a tuple of the first 5 prime numbers.
+33. Check if a tuple is a palindrome.
+34. Create a tuple of squares of numbers from 1 to 5.
+35. Filter out all even numbers from a tuple.
+36. Multiply all elements in a tuple by 2.
+37. Create a tuple of random numbers.
+38. Check if a tuple is sorted.
+39. Rotate a tuple to the left by n positions.
+40. Rotate a tuple to the right by n positions.
+41. Create a tuple of the first 5 Fibonacci numbers.
+42. Create a tuple from user input.
+43. Swap two elements in a tuple.
+44. Reverse the elements of a tuple.
+45. Create a tuple of the first n powers of 2.
+46. Find the longest string in a tuple of strings.
+47. Find the shortest string in a tuple of strings.
+48. Create a tuple of the first n triangular numbers.
+49. Check if a tuple contains another tuple as a subsequence.
+50. Create a tuple of alternating 1s and 0s of length n.
